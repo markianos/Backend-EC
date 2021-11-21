@@ -1,0 +1,11 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+
+.headliner-h1 {
+    font-family: 'Bungee', cursive;
+}
+
+.rotate img {
+    transform: rotate(10deg) !important;
+    margin-top: 2rem;
+    border: 15px solid white;
+}
